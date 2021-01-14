@@ -1,30 +1,30 @@
 ## Chín dòng sông hò hẹn
-Trúc Phương
+Trúc Phương  
 
-Em về đó biển xanh đất rộng
-Nên phù sa đổ chín cửa sông
-Nơi em qua đất nở lời yêu
-lúa nhớ em thật nhiều
-từ say ngất giọng hò chiều
-
-Qua bờ bãi mùa điên điển trổ
-Bông vàng mơ nhớ quá nồi kho
-Quê nuôi khôn mớm từng hạt cơm
-nếu có khi giận hờn
-Thì quê vẫn là tình quê
-
-Dòng sông con nghiêng nghiêng bỗng nhớ
-Nắng mai non nắng đổ tàu dừa
-Sáo diều lưng lưng gió
-giấc ngủ bờ tre trưa
-Lời tình tiếng võng đong đưa
-
-Gian khổ mấy đời ta cũng chịu
-Môi tìm môi để biết tình yêu
-Em xun xoe áo lụa hài thêu
-Chín tiếng sông hội hè
-Lòng quê đáp lại tình quê
-
+Em về đó biển xanh đất rộng  
+Nên phù sa đổ chín cửa sông  
+Nơi em qua đất nở lời yêu  
+lúa nhớ em thật nhiều  
+từ say ngất giọng hò chiều  
+  
+Qua bờ bãi mùa điên điển trổ  
+Bông vàng mơ nhớ quá nồi kho  
+Quê nuôi khôn mớm từng hạt cơm  
+nếu có khi giận hờn  
+Thì quê vẫn là tình quê  
+  
+Dòng sông con nghiêng nghiêng bỗng nhớ  
+Nắng mai non nắng đổ tàu dừa  
+Sáo diều lưng lưng gió  
+giấc ngủ bờ tre trưa  
+Lời tình tiếng võng đong đưa  
+  
+Gian khổ mấy đời ta cũng chịu  
+Môi tìm môi để biết tình yêu  
+Em xun xoe áo lụa hài thêu  
+Chín tiếng sông hội hè  
+Lòng quê đáp lại tình quê  
+  
 https://www.youtube.com/watch?v=jiD6DzTZEqc
 ---
 title: "Theme Documentation - Basics"
